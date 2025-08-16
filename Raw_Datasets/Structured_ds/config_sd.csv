@@ -1,4 +1,4 @@
-filename
-Orders_Data
-customers
-products
+structured,unstructured
+Orders_Data,reviews
+customers,social_media
+products,web_logs
